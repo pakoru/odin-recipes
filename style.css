@@ -1,0 +1,39 @@
+.clist{
+    background-color: aqua;
+}
+
+.h1, .h2, .h3, .h4
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.images {
+    width: 400px;
+    height: auto;
+}
+
+.top{
+    text-align:center;
+    background-color: cadetblue;
+    height: 350px;
+    width: 100%;
+    margin:0%
+}
+.bot, .steps {
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.steps {
+    text-align: justify;
+}
+
+#ingredients {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    text-align: left;
+    background-color: crimson;
+    color:greenyellow;
+    font-weight: bold;
+}
